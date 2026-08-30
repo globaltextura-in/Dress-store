@@ -315,6 +315,12 @@ h1, h2, h3 {
   text-align: center;
   padding: 60px 20px;
 }
+.address-block {
+  margin: 30px 0;
+  font-size: 0.95rem;
+  color: #333;
+  line-height: 1.6;
+}
 
 .contact-links {
   margin-top: 25px;
